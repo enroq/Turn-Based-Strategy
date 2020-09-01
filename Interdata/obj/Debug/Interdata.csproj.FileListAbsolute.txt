@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\eta\Interdata\bin\Debug\Interdata.dll
+C:\Users\admin\Documents\eta\Interdata\bin\Debug\Interdata.pdb
+C:\Users\admin\Documents\eta\Interdata\obj\Debug\Interdata.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\eta\Interdata\obj\Debug\Interdata.dll
+C:\Users\admin\Documents\eta\Interdata\obj\Debug\Interdata.pdb
+C:\Users\admin\Documents\eta\Interdata\obj\Debug\Interdata.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\etaserver\Interdata\bin\Debug\Interdata.dll
+C:\Users\Admin\Documents\etaserver\Interdata\bin\Debug\Interdata.pdb
+C:\Users\Admin\Documents\etaserver\Interdata\obj\Debug\Interdata.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\etaserver\Interdata\obj\Debug\Interdata.dll
+C:\Users\Admin\Documents\etaserver\Interdata\obj\Debug\Interdata.pdb
+C:\Users\Admin\Documents\etaserver\Interdata\obj\Debug\Interdata.csprojResolveAssemblyReference.cache

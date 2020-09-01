@@ -1,0 +1,24 @@
+C:\Users\Adminstrator\documents\visual studio 2017\Projects\EtaServer\EtaServer\bin\Debug\EtaServer.exe.config
+C:\Users\Adminstrator\documents\visual studio 2017\Projects\EtaServer\EtaServer\bin\Debug\EtaServer.exe
+C:\Users\Adminstrator\documents\visual studio 2017\Projects\EtaServer\EtaServer\bin\Debug\EtaServer.pdb
+C:\Users\Adminstrator\documents\visual studio 2017\Projects\EtaServer\EtaServer\obj\Debug\EtaServer.exe
+C:\Users\Adminstrator\documents\visual studio 2017\Projects\EtaServer\EtaServer\obj\Debug\EtaServer.pdb
+C:\Users\Adminstrator\documents\visual studio 2017\Projects\EtaServer\EtaServer\obj\Debug\EtaServer.csprojResolveAssemblyReference.cache
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\bin\Debug\EtaServer.exe.config
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\bin\Debug\EtaServer.exe
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\bin\Debug\EtaServer.pdb
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\obj\Debug\EtaServer.exe
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\obj\Debug\EtaServer.pdb
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\bin\Debug\MySql.Data.dll
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\bin\Debug\MySql.Data.xml
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\obj\Debug\EtaServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\etaserver\EtaServer\bin\Debug\EtaServer.exe.config
+C:\Users\Admin\Documents\etaserver\EtaServer\bin\Debug\EtaServer.exe
+C:\Users\Admin\Documents\etaserver\EtaServer\bin\Debug\EtaServer.pdb
+C:\Users\Admin\Documents\etaserver\EtaServer\bin\Debug\Interdata.dll
+C:\Users\Admin\Documents\etaserver\EtaServer\bin\Debug\Interdata.pdb
+C:\Users\Admin\Documents\etaserver\EtaServer\obj\Debug\EtaServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\etaserver\EtaServer\obj\Debug\EtaServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\etaserver\EtaServer\obj\Debug\EtaServer.csproj.CopyComplete
+C:\Users\Admin\Documents\etaserver\EtaServer\obj\Debug\EtaServer.exe
+C:\Users\Admin\Documents\etaserver\EtaServer\obj\Debug\EtaServer.pdb

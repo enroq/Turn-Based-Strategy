@@ -1,0 +1,17 @@
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\bin\Release\EtaServer.exe.config
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\bin\Release\EtaServer.exe
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\bin\Release\EtaServer.pdb
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\obj\Release\EtaServer.exe
+C:\Users\Adminstrator\Documents\etaserver\EtaServer\obj\Release\EtaServer.pdb
+C:\Users\admin\Documents\etaserver\EtaServer\bin\Release\EtaServer.exe.config
+C:\Users\admin\Documents\etaserver\EtaServer\bin\Release\EtaServer.exe
+C:\Users\admin\Documents\etaserver\EtaServer\bin\Release\EtaServer.pdb
+C:\Users\admin\Documents\etaserver\EtaServer\bin\Release\Interdata.dll
+C:\Users\admin\Documents\etaserver\EtaServer\bin\Release\MySql.Data.dll
+C:\Users\admin\Documents\etaserver\EtaServer\bin\Release\Interdata.pdb
+C:\Users\admin\Documents\etaserver\EtaServer\bin\Release\MySql.Data.xml
+C:\Users\admin\Documents\etaserver\EtaServer\obj\Release\EtaServer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\etaserver\EtaServer\obj\Release\EtaServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\etaserver\EtaServer\obj\Release\EtaServer.csproj.CopyComplete
+C:\Users\admin\Documents\etaserver\EtaServer\obj\Release\EtaServer.exe
+C:\Users\admin\Documents\etaserver\EtaServer\obj\Release\EtaServer.pdb

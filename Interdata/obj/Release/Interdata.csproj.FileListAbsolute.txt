@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\etaserver\Interdata\bin\Release\Interdata.dll
+C:\Users\admin\Documents\etaserver\Interdata\bin\Release\Interdata.pdb
+C:\Users\admin\Documents\etaserver\Interdata\obj\Release\Interdata.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\etaserver\Interdata\obj\Release\Interdata.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\etaserver\Interdata\obj\Release\Interdata.dll
+C:\Users\admin\Documents\etaserver\Interdata\obj\Release\Interdata.pdb

@@ -1,0 +1,2 @@
+C:\Users\admin\Documents\etaserver\VestigialGameBoardCode\obj\Debug\VestigialGameBoardCode.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\etaserver\VestigialGameBoardCode\obj\Debug\VestigialGameBoardCode.csproj.CoreCompileInputs.cache
